@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodisteph
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me: rdrgbouabida@gmail.com
 - 😄 Pronouns: he/him
